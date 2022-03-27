@@ -2,7 +2,7 @@
 
   <center>
           <br>
- <button v-on:click="wallets" id="btn" value="0"><img src="https://i.ibb.co/wW5FZ3q/greegrtitre-1.png" alt="" width="300" height="47"></button>
+ <button v-on:click="wallets" id="btn" value="0"><img src="https://i.ibb.co/wW5FZ3q/greegrtitre-1.png" alt="" width="424" height="52"></button>
  </center>
           </div>
           <div class="modal2">
